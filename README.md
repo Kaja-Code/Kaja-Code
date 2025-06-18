@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.istockphoto.com/photo/programming-code-abstract-technology-background-of-software-deve-gm537331500-95204155" alt="Banner" width="100%" />
+  <img src="https://images.app.goo.gl/42zmfba6jM7Z95uUA" alt="Banner" width="100%" />
 </p>
 
 # 👋 Hey there, I'm Kajanan!
 
-🌱 I’m currently an undergraduate student in Software Engineering at SLIIT Northern University.
+🌱 I’m currently an undergraduate student in Software Engineering at SLIIT Northern Uni.
 
 <div align="right">
   <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" style="max-width: 100%; height: auto;" />
@@ -56,6 +56,13 @@
 </div>
 
 ---
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaja-Code&theme=darkhub" />
+</div>
+
+---
 
 ## ⚡ GitHub Activity Graph
 
@@ -64,6 +71,15 @@
 </div>
 
 ---
+## 👀 **Profile Views**
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Kaja-Code&color=blueviolet&style=flat" 
+    alt="Kaja-Code" 
+    style="width:180px; height:auto;"
+  />
+</p>
 
 ## 🔗 Connect with Me
 
