@@ -8,7 +8,7 @@
 
 🌱 I’m currently an undergraduate student in Software Engineering at SLIIT Northern Uni.
 
-<div align="right">
+<div align="center">
   <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" style="max-width: 100%; height: auto;" />
 </div>
 
@@ -56,6 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaja-Code&layout=compact&theme=tokyonight" width="49%" />
 </div>
 
+
 ---
 ## 🏆 **GitHub Trophies**
 
@@ -93,12 +94,10 @@
 ### 📌 VK Aura – Temple E-commerce System
 A full-stack MERN web app for temple product sales and inventory.
 - 🔗 [GitHub Repo](https://github.com/Kaja-Code/ITP-VKAura)
-- 🌐 [Live Demo](https://vkaura.live)
 
 ### 📱 Task Tracker Mobile App
 React Native app to manage daily tasks with local notifications.
 - 🔗 [GitHub Repo](https://github.com/Kaja-Code/MadLabExam03)
-
 
 
 
