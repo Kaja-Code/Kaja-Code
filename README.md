@@ -1,6 +1,7 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://images.app.goo.gl/42zmfba6jM7Z95uUA" alt="Banner" width="100%" />
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/Kaja-Code/Kaja-Code/refs/heads/main/ee6071b7-ef42-45e4-ba8c-9fc44bbdfa22_large.webp" alt="Banner" width="25%" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Banner" width="25%" />
 </p>
 
 # 👋 Hey there, I'm Kajanan!
@@ -103,6 +104,7 @@ React Native app to manage daily tasks with local notifications.
 
 ## 🙏 Thank You for Visiting!
 
-<p align="center">
+<p align="center">   
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width="200" />
 </p>
