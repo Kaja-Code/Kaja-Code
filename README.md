@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://stockcake.com/i/coding-at-night_1243263_1019508" alt="Banner" width="100%" />
+  <img src="https://www.istockphoto.com/photo/programming-code-abstract-technology-background-of-software-deve-gm537331500-95204155" alt="Banner" width="100%" />
 </p>
 
 # 👋 Hey there, I'm Kajanan!
