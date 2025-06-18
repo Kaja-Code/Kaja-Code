@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaja-Code&show_icons=true&theme=tokyonight" width="49%" />
@@ -60,7 +60,7 @@
 ## ⚡ GitHub Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harushanan&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaja-Code&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
