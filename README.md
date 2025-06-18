@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%" />
+  <img src="https://stockcake.com/i/coding-at-night_1243263_1019508" alt="Banner" width="100%" />
 </p>
 
 # 👋 Hey there, I'm Kajanan!
@@ -43,7 +43,7 @@
 
 ### 📱 Mobile Development Tools
 <p>
-  <img src="https://img.icons8.com/?size=100&id=04OFrkjznvcd&format=png&color=000000" width="48" title="Android Studio"/>
+  <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" title="Android Studio"/>
 </p>
 
 ---
@@ -73,7 +73,17 @@
 
 ## 💼 See My Projects 👇
 
----
+### 📌 VK Aura – Temple E-commerce System
+A full-stack MERN web app for temple product sales and inventory.
+- 🔗 [GitHub Repo](https://github.com/Kaja-Code/ITP-VKAura)
+- 🌐 [Live Demo](https://vkaura.live)
+
+### 📱 Task Tracker Mobile App
+React Native app to manage daily tasks with local notifications.
+- 🔗 [GitHub Repo](https://github.com/Kaja-Code/MadLabExam03)
+
+
+
 
 ## 🙏 Thank You for Visiting!
 
