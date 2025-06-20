@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaja-Code&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaja-Code&layout=compact&theme=tokyonight" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kaja-Code&show_icons=true&theme=tokyonight&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaja-Code&layout=compact&theme=tokyonight&cache_seconds=1800" width="49%" />
 </div>
 
 
