@@ -1,17 +1,19 @@
+ 
 <!-- Banner -->
+<!-- 
 <p align="center">  
   <img src="https://raw.githubusercontent.com/Kaja-Code/Kaja-Code/refs/heads/main/ee6071b7-ef42-45e4-ba8c-9fc44bbdfa22_large.webp" alt="Banner" width="25%" />
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Banner" width="25%" />
 </p>
-
+ -->
 # 👋 Hey there, I'm Kajanan!
 
 🌱 I’m currently an undergraduate student in Software Engineering at SLIIT Northern Uni.
-
+<!-- 
 <div align="center">
   <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" style="max-width: 100%; height: auto;" />
 </div>
-
+ -->
 ---
 
 ## 🔧 Tech Stack I Work With
@@ -53,10 +55,13 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Kaja-Code&show_icons=true&theme=tokyonight&cache_seconds=1800" width="49%" />
+</div>
+---
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaja-Code&layout=compact&theme=tokyonight&cache_seconds=1800" width="49%" />
 </div>
 
-
+<!-- 
 ---
 ## 🏆 **GitHub Trophies**
 
@@ -73,6 +78,7 @@
 </div>
 
 ---
+
 ## 👀 **Profile Views**
 
 <p align="center">
@@ -82,7 +88,7 @@
     style="width:180px; height:auto;"
   />
 </p>
-
+ -->
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sritharankajanan01)
@@ -102,8 +108,9 @@ React Native app to manage daily tasks with local notifications.
 
 
 ## 🙏 Thank You for Visiting!
-
+<!-- 
 <p align="center">   
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif" width="200" />
 </p>
+ -->
