@@ -1,4 +1,3 @@
- 
 <!-- Banner -->
 <!-- 
 <p align="center">  
@@ -9,6 +8,7 @@
 # 👋 Hey there, I'm Kajanan!
 
 🌱 I’m currently an undergraduate student in Software Engineering at SLIIT Northern Uni.
+
 <!-- 
 <div align="center">
   <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="300" style="max-width: 100%; height: auto;" />
@@ -54,11 +54,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kaja-Code&show_icons=true&theme=tokyonight&cache_seconds=1800" width="49%" />
-</div>
----
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaja-Code&layout=compact&theme=tokyonight&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaja-Code&show_icons=true&theme=tokyonight&cache_seconds=60" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaja-Code&layout=compact&theme=tokyonight&langs_count=12&cache_seconds=60" width="49%" />
 </div>
 
 <!-- 
@@ -89,6 +86,7 @@
   />
 </p>
  -->
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sritharankajanan01)
@@ -105,7 +103,7 @@ A full-stack MERN web app for temple product sales and inventory.
 React Native app to manage daily tasks with local notifications.
 - 🔗 [GitHub Repo](https://github.com/Kaja-Code/MadLabExam03)
 
-
+---
 
 ## 🙏 Thank You for Visiting!
 <!-- 
